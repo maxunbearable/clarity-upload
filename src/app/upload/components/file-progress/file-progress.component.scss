@@ -1,0 +1,28 @@
+.progress-bar {
+  display: inline-block;
+  height: 200px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  width: 90px;
+}
+.file-container {
+  width: 320px;
+  height: 100px;
+  padding: 10px;
+}
+.folder-icon {
+  width: 100px;
+  height: 100px;
+}
+.file-info {
+  margin-left: 20px;
+  display: flex;
+}
+.file-labels {
+  display: flex;
+  flex-direction: column;
+  font-size: 10px;
+}
+.files-container {
+  display: flex;
+}
