@@ -1,3 +1,3 @@
-# max-unbearable-clarity-upload
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/maxunbearable/max-unbearable-clarity-upload)
+тестове завдання:
+1. створити сторінку накшталт цього скріну. елементна база - clarity
+2. зафіксувати час, що був витрачений на це завдання
